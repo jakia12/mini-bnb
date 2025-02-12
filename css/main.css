@@ -159,7 +159,7 @@ body {
   color: #101228;
   /* background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.5)),
     url("../bg2.jpg"); */
-    background: linear-gradient(to bottom, #fed1305f, #fed130b2, #fed130df);
+  background: linear-gradient(to bottom, #fed1305f, #fed130b2, #fed130df);
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -566,16 +566,16 @@ h2 {
 
 .hero__text {
   margin: 24px;
-  font-family: "Friends Zone";
-  font-size: 24px;
+  font-family: "Burger Free";
+  font-size: 2rem;
   color: #fff;
   font-weight: 400;
-  line-height: 1.33;
+  /* line-height: 1.33; */
 }
 
 @media screen and (max-width: 640px) {
   .hero__text {
-    font-size: 20px;
+    font-size: 1.2rem;
   }
 }
 
