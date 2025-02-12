@@ -157,11 +157,12 @@ body {
   font-weight: 400;
   font-size: 24px;
   color: #101228;
-  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.5)),
-    url("../bg2.jpg");
+  /* background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.5)),
+    url("../bg2.jpg"); */
+    background: linear-gradient(to bottom, #ff27815f, #5e63e586, #13ffbc8c, #ffdd36d9);
   background-size: cover;
   background-repeat: no-repeat;
-  background-attachment: fixed;
+  background-attachment: scroll;
   background-position: center;
   /* background: #e58e26; */
   /* background: linear-gradient(
@@ -475,8 +476,8 @@ h2 {
 
   padding: 200px 0;
   position: relative;
-  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.5)),
-    url("../bg.jpg");
+  /* background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.5)),
+    url("../bg.jpg"); */
   background-size: cover;
   /* background: #2f3542; */
 }
@@ -1009,7 +1010,7 @@ h2 {
 
 .footer {
   padding: 50px 0;
-  background: #e58e26;
+  background: #e94fbf;
 }
 
 .footer__container {
