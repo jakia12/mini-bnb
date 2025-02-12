@@ -159,7 +159,7 @@ body {
   color: #101228;
   /* background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.5)),
     url("../bg2.jpg"); */
-    background: linear-gradient(to bottom, #ff27815f, #5e63e586, #13ffbc8c, #ffdd36d9);
+    background: linear-gradient(to bottom, #fed1305f, #fed130b2, #fed130df);
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -295,7 +295,7 @@ h2 {
   top: 0;
   width: 100%;
   padding: 50px 0;
-  background: #e94fbf;
+  background: #feca57;
 }
 
 @media screen and (max-width: 1023.98px) {
@@ -1010,7 +1010,7 @@ h2 {
 
 .footer {
   padding: 50px 0;
-  background: #e94fbf;
+  background: #feca57;
 }
 
 .footer__container {
